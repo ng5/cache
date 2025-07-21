@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define NUM_THREADS 5
-#define ITERATIONS 100000000
+#define ITERATIONS 1000000
 
 typedef struct {
   long value;
